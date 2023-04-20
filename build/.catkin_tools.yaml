@@ -1,0 +1,6 @@
+devel_space: /home/ddquan/testflyab_ws/devel
+install: false
+install_space: /home/ddquan/testflyab_ws/install
+profile: default
+source_space: /home/ddquan/testflyab_ws/src
+workspace: /home/ddquan/testflyab_ws

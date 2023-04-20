@@ -1,0 +1,7 @@
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:[m[K In member function ‘[01m[Kvoid OffboardControl::enuYawFlight()[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:542:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kelse[m[K’ without a previous ‘[01m[Kif[m[K’
+  542 |   [01;31m[Kelse[m[K {
+      |   [01;31m[K^~~~[m[K
+make[2]: *** [CMakeFiles/flyab_lib.dir/build.make:63: CMakeFiles/flyab_lib.dir/src/flyab_lib.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:234: CMakeFiles/flyab_lib.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

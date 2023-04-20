@@ -1,0 +1,1 @@
+/home/ddquan/testflyab_ws/devel/.private/ewok_poly_spline/share/ewok_poly_spline/cmake/ewok_poly_splineConfig.cmake

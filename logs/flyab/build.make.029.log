@@ -1,0 +1,31 @@
+[35m[1mScanning dependencies of target flyab_lib[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  7%] [32mBuilding CXX object CMakeFiles/flyab_lib.dir/src/flyab_lib.cpp.o[0m
+[  7%] Built target std_msgs_generate_messages_py
+[  7%] Built target geometry_msgs_generate_messages_py
+[  7%] Built target std_msgs_generate_messages_eus
+[  7%] Built target geometry_msgs_generate_messages_eus
+[  7%] Built target geometry_msgs_generate_messages_cpp
+[  7%] Built target _flyab_generate_messages_check_deps_FlatTarget
+[  7%] Built target std_msgs_generate_messages_cpp
+[  7%] Built target std_msgs_generate_messages_nodejs
+[  7%] Built target geometry_msgs_generate_messages_nodejs
+[ 23%] Built target setmode_flyab
+[ 30%] Built target flyab_generate_messages_lisp
+[ 46%] Built target flyab_generate_messages_eus
+[ 53%] Built target flyab_generate_messages_cpp
+[ 69%] Built target flyab_generate_messages_py
+[ 76%] Built target flyab_generate_messages_nodejs
+[ 76%] Built target flyab_generate_messages
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:[m[K In member function ‘[01m[Kvoid OffboardControl::enuYawFlight()[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:533:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kelse[m[K’ without a previous ‘[01m[Kif[m[K’
+  533 |         [01;31m[Kelse[m[K {
+      |         [01;31m[K^~~~[m[K
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:[m[K At global scope:
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:622:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+  622 | [01;31m[K}[m[K
+      | [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/flyab_lib.dir/build.make:63: CMakeFiles/flyab_lib.dir/src/flyab_lib.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:234: CMakeFiles/flyab_lib.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

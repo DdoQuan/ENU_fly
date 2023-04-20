@@ -1,0 +1,39 @@
+In file included from [01m[K/home/ddquan/testflyab_ws/src/ewok_optimization/include/ewok/uniform_bspline_3d_optimization.h:29[m[K,
+                 from [01m[K/home/ddquan/testflyab_ws/src/ewok_optimization/src/spline_optimization_example.cpp:28[m[K:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:[m[K In member function ‘[01m[Kbool ewok::EuclideanDistanceRingBuffer<_POW, _Datatype, _Scalar, _Flag>::isOccupied(const Vector3i&)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:116:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  116 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:[m[K In member function ‘[01m[Kbool ewok::EuclideanDistanceRingBuffer<_POW, _Datatype, _Scalar, _Flag>::isFree(const Vector3i&)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:121:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  121 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+In file included from [01m[K/home/ddquan/testflyab_ws/src/ewok_optimization/include/ewok/rrtstar3d.h:19[m[K,
+                 from [01m[K/home/ddquan/testflyab_ws/src/ewok_optimization/src/rrt_optimization_single.cpp:47[m[K:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:[m[K In member function ‘[01m[Kbool ewok::EuclideanDistanceRingBuffer<_POW, _Datatype, _Scalar, _Flag>::isOccupied(const Vector3i&)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:116:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  116 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:[m[K In member function ‘[01m[Kbool ewok::EuclideanDistanceRingBuffer<_POW, _Datatype, _Scalar, _Flag>::isFree(const Vector3i&)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:121:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  121 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+In file included from [01m[K/home/ddquan/testflyab_ws/src/ewok_optimization/include/ewok/uniform_bspline_3d_optimization.h:29[m[K,
+                 from [01m[K/home/ddquan/testflyab_ws/src/ewok_optimization/src/spline_optimization_example2.cpp:28[m[K:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:[m[K In member function ‘[01m[Kbool ewok::EuclideanDistanceRingBuffer<_POW, _Datatype, _Scalar, _Flag>::isOccupied(const Vector3i&)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:116:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  116 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:[m[K In member function ‘[01m[Kbool ewok::EuclideanDistanceRingBuffer<_POW, _Datatype, _Scalar, _Flag>::isFree(const Vector3i&)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:121:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  121 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+In file included from [01m[K/home/ddquan/testflyab_ws/src/ewok_optimization/src/spline_optimization_example3.cpp:2[m[K:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:[m[K In member function ‘[01m[Kbool ewok::EuclideanDistanceRingBuffer<_POW, _Datatype, _Scalar, _Flag>::isOccupied(const Vector3i&)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:116:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  116 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:[m[K In member function ‘[01m[Kbool ewok::EuclideanDistanceRingBuffer<_POW, _Datatype, _Scalar, _Flag>::isFree(const Vector3i&)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/ewok_ring_buffer/include/ewok/ed_ring_buffer.h:121:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  121 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K

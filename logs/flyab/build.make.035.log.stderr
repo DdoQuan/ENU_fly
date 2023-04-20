@@ -1,0 +1,17 @@
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:[m[K In constructor ‘[01m[KOffboardControl::OffboardControl(const ros::NodeHandle&, const ros::NodeHandle&, bool)[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:19:5:[m[K [01;31m[Kerror: [m[K‘[01m[Ktrajectory_pub[m[K’ was not declared in this scope; did you mean ‘[01m[Ktrajectory_[m[K’?
+   19 |     [01;31m[Ktrajectory_pub[m[K = nh.advertise<trajectory_msgs::MultiDOFJointTrajectory> ("mavros/setpoint_trajectory/multiDOFJointTrajectory", 10);
+      |     [01;31m[K^~~~~~~~~~~~~~[m[K
+      |     [32m[Ktrajectory_[m[K
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:19:134:[m[K [01;31m[Kerror: [m[Kpassing ‘[01m[Kconst ros::NodeHandle[m[K’ as ‘[01m[Kthis[m[K’ argument discards qualifiers [[01;31m[K-fpermissive[m[K]
+   19 |     trajectory_pub = nh.advertise<trajectory_msgs::MultiDOFJointTrajectory> ("mavros/setpoint_trajectory/multiDOFJointTrajectory", 10[01;31m[K)[m[K;
+      |                                                                                                                                      [01;31m[K^[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/ddquan/testflyab_ws/src/flyab/include/flyab/flyab.h:4[m[K,
+                 from [01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/ros/node_handle.h:249:15:[m[K [01;36m[Knote: [m[K  in call to ‘[01m[Kros::Publisher ros::NodeHandle::advertise(const string&, uint32_t, bool) [with M = trajectory_msgs::MultiDOFJointTrajectory_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>; uint32_t = unsigned int][m[K’
+  249 |     Publisher [01;36m[Kadvertise[m[K(const std::string& topic, uint32_t queue_size, bool latch = false)
+      |               [01;36m[K^~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/flyab_lib.dir/build.make:63: CMakeFiles/flyab_lib.dir/src/flyab_lib.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:234: CMakeFiles/flyab_lib.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

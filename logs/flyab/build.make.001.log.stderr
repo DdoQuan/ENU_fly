@@ -1,0 +1,5 @@
+/usr/bin/ld: /home/ddquan/testflyab_ws/devel/.private/flyab/lib/libflyab_lib.so: undefined reference to `OffboardControl::delivery(geometry_msgs::PoseStamped_<std::allocator<void> >, double)'
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/flyab_node.dir/build.make:115: /home/ddquan/testflyab_ws/devel/.private/flyab/lib/flyab/flyab_node] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1752: CMakeFiles/flyab_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,10 @@
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:[m[K In member function ‘[01m[Kvoid OffboardControl::enuYawFlight()[m[K’:
+[01m[K/home/ddquan/testflyab_ws/src/flyab/src/flyab_lib.cpp:526:75:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Ktarget_enu_pose_[m[K’
+  526 |          std::cout<< "this_loop_alpha = "  << this_loop_alpha << std::endl
+      |                                                                           [01;31m[K^[m[K
+      |                                                                           [32m[K;[m[K
+  527 |         [32m[Ktarget_enu_pose_[m[K.pose.orientation = tf::createQuaternionMsgFromYaw(this_loop_alpha);
+      |         [32m[K~~~~~~~~~~~~~~~~[m[K                                                   
+make[2]: *** [CMakeFiles/flyab_lib.dir/build.make:63: CMakeFiles/flyab_lib.dir/src/flyab_lib.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:234: CMakeFiles/flyab_lib.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2
